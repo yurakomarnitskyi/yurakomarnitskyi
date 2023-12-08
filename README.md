@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @yurakomarnitskyi
 - 👀 I’m interested in web-development 
 - 🌱 I’m currently learning Python and other tehnology 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me komarnickijura@gmail.com
 
 <!---
